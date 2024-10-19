@@ -1,2 +1,2 @@
 # runo_portfolio
-This is my Portfolio Website I mad using js, css and tailwind
+This is my Portfolio Website I made using js, css and tailwind
